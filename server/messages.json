@@ -1,0 +1,40 @@
+{
+  "results": [
+    {
+      "username": "darthvader",
+      "text": "test4",
+      "roomname": "lobby",
+      "objectId": 1
+    },
+    {
+      "username": "darthvader",
+      "text": "test1",
+      "roomname": "lobby",
+      "objectId": 2
+    },
+    {
+      "username": "darthvader",
+      "text": "new test",
+      "roomname": "lobby",
+      "objectId": 3
+    },
+    {
+      "username": "mona",
+      "text": "MY COOL MEGA MESSAGE",
+      "roomname": "lobby",
+      "objectId": 4
+    },
+    {
+      "username": "mona",
+      "text": "MY COOL MEGA MESSAGE",
+      "roomname": "batman",
+      "objectId": 5
+    },
+    {
+      "username": "mona",
+      "text": "hello",
+      "roomname": "lobby",
+      "objectId": 6
+    }
+  ]
+}
